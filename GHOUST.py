@@ -77,7 +77,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 \033[1;96mAuthor  \033[1;93m: \033[1;92mKomail TSIKA
 \033[1;96mInstagram \033[1;93m: \033[1: KING_GHOUST_TSIKA
 \033[1;96mFacebook  \033[1;93m: \033[1: GHOUST.tsika.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ghoust89/GHOUSTcloning
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ghoust89/GHOUST.py
 \033[1;91m======================================="""
 
 def tik():
@@ -116,7 +116,7 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92mGHOUST TSIKA HACKER
 \033[1;96mInstagram \033[1;93m: \033[1;92KING_GHOUST
 \033[1;96mFacebook  \033[1;93m: \033[1;92m GHOUST.ghoust89.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ghoust89/GHOUST
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ghoust89/GHOUST.py
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
